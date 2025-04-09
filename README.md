@@ -3,7 +3,11 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" />
 
   <!-- Computer Science Icon (Animated Brain Circuit) -->
-  <img src="https://cdn-icons-png.flaticon.com/512/4228/4228708.png" width="45" title="Computer Science" />
+<img src="https://img.icons8.com/?size=100&id=uSB5F3NP2id2&format=png&color=000000" width="45" title="Male Coder Icon" />
+
+
+
+
 
   <!-- Finance Icon (Animated chart growing) -->
   <img src="https://cdn-icons-png.flaticon.com/512/3898/3898089.png" width="45" title="Finance" />
