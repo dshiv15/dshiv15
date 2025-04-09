@@ -1,10 +1,19 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25" />
-  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721290.png" width="40" />
-  <img src="https://cdn-icons-png.flaticon.com/512/1989/1989182.png" width="40" />
+  <!-- Waving hand -->
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" />
+
+  <!-- Computer Science Icon (Animated Brain Circuit) -->
+  <img src="https://cdn-icons-png.flaticon.com/512/4228/4228708.png" width="45" title="Computer Science" />
+
+  <!-- Finance Icon (Animated chart growing) -->
+  <img src="https://cdn-icons-png.flaticon.com/512/3898/3898089.png" width="45" title="Finance" />
+
+  <!-- AI Icon (Optional addition for CS interest) -->
+  <img src="https://cdn-icons-png.flaticon.com/512/4380/4380498.png" width="45" title="Artificial Intelligence" />
 </p>
 
-# 👋 Hi there, I'm Shiv Dixit!
+
+#  Hi there, I'm Shiv Dixit!
 
 🎓 **Computer Science Undergrad** 
 📈 Minor in Accounting & Finance  
