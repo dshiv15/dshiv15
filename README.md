@@ -70,17 +70,17 @@
 
 ## 📌 Top Projects
 
-**🔎 [FIN-EXTRACT](https://github.com/dshiv15/Fin-Extract)**  
-*Streamlit • Google Gemini AI • Web Scraping*  
-> AI-powered tool for fast and secure financial data extraction from PDFs.
+**🧠 [Walmart-Supplychain-Optimizer](https://github.com/dshiv15/walmart-supplychain-optimizer)**  
+*Python • Pandas • NetworkX • Flask • FastAPI • React.js • NumPy*  
+> AI-powered decision engine designed to eliminate inefficiencies, fragmentation, and cost leakage within Walmart’s retail supply chain — with a specific focus on last-mile delivery, return bundling, and dynamic fulfillment node selection.
 
-**🌍 [EXPLORA](https://github.com/dshiv15/Explora)**  
-*ReactJS • MongoDB • NodeJS*  
-> A travel storytelling platform with personalized journals, search filters, and secure user authentication.
+**🌍 [AWS-Based Real-Time Fraud Detection System](https://github.com/dshiv15/AWS-Based-Real-Time-Fraud-Detection-System)**  
+*AWS SDK (boto3) • AWS Fraud Detector • Stateless Microservices • Encrypted Data Transfer*  
+> A real-time fraud detection system built with Python, AWS SDK (boto3), and Amazon Fraud Detector, capable of analyzing over 10,000 transactions daily with sub-300ms response times. It uses enriched metadata (geolocation, IP, device info) to boost detection accuracy by 35%, and features a secure, stateless microservices architecture with IAM-control.
 
-**🎟️ [Event Management System](https://github.com/dshiv15/Event-Management-System)**  
-*PHP • SQL*  
-> Admin-user interface for venue bookings, communication, and profile management.
+**🤖 [AI-Driven Lead Qualification & Notification Agent](https://github.com/dshiv15/AI-Driven-Lead-Qualification-Notification-Agent)**  
+*n8n • Gemini • Gmail API*  
+> An AI-driven lead qualification and notification system that automates scoring, classification, and routing of 500+ leads weekly using n8n workflows, Google Gemini AI, and the Gmail API. This solution reduces manual triage by 80%, accelerates response times by 5×, and sends real-time personalized notifications to the right stakeholders—making lead.
 
 ---
 
