@@ -3,23 +3,18 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" />
 
   <!-- Computer Science Icon (Animated Brain Circuit) -->
-<img src="https://img.icons8.com/?size=100&id=uSB5F3NP2id2&format=png&color=000000" width="45" title="Male Coder Icon" />
-
-
-
-
+  <img src="https://img.icons8.com/?size=100&id=uSB5F3NP2id2&format=png&color=000000" width="45" title="Male Coder Icon" />
 
   <!-- Finance Icon (Animated chart growing) -->
   <img src="https://cdn-icons-png.flaticon.com/512/3898/3898089.png" width="45" title="Finance" />
 
-  <!-- AI Icon (Optional addition for CS interest) -->
+  <!-- AI Icon -->
   <img src="https://cdn-icons-png.flaticon.com/512/4380/4380498.png" width="45" title="Artificial Intelligence" />
 </p>
 
+# 👋 Hi there, I'm Shiv Dixit!
 
-#  Hi there, I'm Shiv Dixit!
-
-🎓 **Computer Science Undergrad** 
+🎓 **Computer Science Undergrad**  
 📈 Minor in Accounting & Finance  
 📍 India  
 
@@ -80,7 +75,16 @@
 
 **🤖 [AI-Driven Lead Qualification & Notification Agent](https://github.com/dshiv15/AI-Driven-Lead-Qualification-Notification-Agent)**  
 *n8n • Gemini • Gmail API*  
-> An AI-driven lead qualification and notification system that automates scoring, classification, and routing of 500+ leads weekly using n8n workflows, Google Gemini AI, and the Gmail API. This solution reduces manual triage by 80%, accelerates response times by 5×, and sends real-time personalized notifications to the right stakeholders—making lead.
+> An AI-driven lead qualification and notification system that automates scoring, classification, and routing of 500+ leads weekly using n8n workflows, Google Gemini AI, and the Gmail API. This solution reduces manual triage by 80%, accelerates response times by 5×, and sends real-time personalized notifications to the right stakeholders.
+
+---
+
+## 🤝 Open Source Contributions
+
+**🛒 [Flipkart Grid 7.0 – E-commerce NER & Autosuggest System](https://github.com/sr2echa/flipkart-grid)**  
+*Python • BERT • SBERT • FAISS • XGBoost • LightGBM*  
+> Contributed to building a large-scale E-commerce **Named Entity Recognition (NER) and Autosuggest System** for Flipkart Grid 7.0.  
+> Implemented fast query intent parsing, semantic retrieval with FAISS, BERT-based completion, and an XGBoost-powered reranker using session, user, product, and interaction features. Enhanced ranking pipeline with persona-specific behaviors and feature-rich training data generation.
 
 ---
 
@@ -101,5 +105,3 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dshiv15&layout=compact&theme=radical)  
 ![Shiv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dshiv15&show_icons=true&theme=radical&count_private=true&hide=stars)
-
----
