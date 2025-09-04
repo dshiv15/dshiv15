@@ -81,7 +81,7 @@
 
 ## 🤝 Open Source Contributions
 
-**🛒 [Flipkart Grid 7.0 – E-commerce NER & Autosuggest System](https://github.com/sr2echa/flipkart-grid)**  
+**🛒 [Flipkart Grid 7.0 – E-commerce Autosuggest & SRP System](https://github.com/sr2echa/flipkart-grid)**  
 *Python • BERT • SBERT • FAISS • XGBoost • LightGBM*  
 > Contributed to building a large-scale E-commerce **Named Entity Recognition (NER) and Autosuggest System** for Flipkart Grid 7.0.  
 > Implemented fast query intent parsing, semantic retrieval with FAISS, BERT-based completion, and an XGBoost-powered reranker using session, user, product, and interaction features. Enhanced ranking pipeline with persona-specific behaviors and feature-rich training data generation.
